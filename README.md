@@ -1,0 +1,4 @@
+flato
+=====
+
+flat style colorscheme
